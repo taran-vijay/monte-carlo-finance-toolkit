@@ -1,0 +1,10 @@
+name: mc-finance
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/mc-finance
